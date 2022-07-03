@@ -1,0 +1,20 @@
+python 3.8.8
+
+packages
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pipwin
+pipwin install PyAudio
+pip install selenium
+pip install PyWhatkit
+pip install flask
+pip install opencv
+pip install pyqt5
+pip install pyqt5-tools
+pip install pyautogui
+
+for face recognition
+visual studio c++
+pip install dlib
+pip install cmake
+pip install face_recognition
